@@ -1,14 +1,10 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package com.taller;
 
-import ChainOfResponsability.AsistenteHandler;
-import ChainOfResponsability.GerenteHandler;
-import ChainOfResponsability.Handler;
-import ChainOfResponsability.JefeInventarioHandler;
-import ChainOfResponsability.TecnicoHandler;
+import chainOfResponsability.AsistenteHandler;
+import chainOfResponsability.GerenteHandler;
+import chainOfResponsability.Handler;
+import chainOfResponsability.JefeInventarioHandler;
+import chainOfResponsability.TecnicoHandler;
 
 /**
  *

@@ -1,4 +1,4 @@
-package com.taller.composite;
+package composite;
 
 public abstract class Caracteristica {
 
