@@ -10,7 +10,7 @@ import com.taller.Producto;
  *
  * @author johan
  */
-public class AsistenHandler extends BaseHandler {
+public class AsistenteHandler extends BaseHandler {
     
     private Handler next;
     
